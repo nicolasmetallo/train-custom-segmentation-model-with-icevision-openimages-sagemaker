@@ -1,0 +1,4 @@
+cvdata==0.0.3
+icevision[all]==0.5.1
+imantics==0.1.12
+numpy
